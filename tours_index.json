@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-11-22",
+  "tours": [
+    {
+      "id": "classic_athens_express",
+      "tour_id": "classic_athens_express",
+      "version": 1,
+      "title": "Classic Athens Express",
+      "subtitle": "Syntagma, National Garden & Hadrian's Arch",
+      "difficulty": "Easy",
+      "total_distance_meters": 2200,
+      "estimated_duration_minutes": 55,
+      "stops_count": 6,
+      "url": "https://webgonow.github.io/tour-me-athens/tours/classic_athens_express.json",
+      "file": "tours/classic_athens_express.json"
+    }
+  ]
+}
