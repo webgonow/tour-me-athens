@@ -1,0 +1,156 @@
+{
+  "tour_id": "classic_athens_express",
+  "version": 1,
+  "title": "Classic Athens Express",
+  "subtitle": "Syntagma, National Garden & Hadrian's Arch",
+  "difficulty": "Easy",
+  "total_distance_meters": 2200,
+  "estimated_duration_minutes": 55,
+  "cover_image_url": "",
+  "route_coordinates": [
+    [
+      37.9755,
+      23.7348
+    ],
+    [
+      37.9753,
+      23.7357
+    ],
+    [
+      37.9751,
+      23.7363
+    ],
+    [
+      37.9746,
+      23.7366
+    ],
+    [
+      37.9739,
+      23.7368
+    ],
+    [
+      37.9731,
+      23.7371
+    ],
+    [
+      37.9722,
+      23.7369
+    ],
+    [
+      37.9714,
+      23.7366
+    ],
+    [
+      37.9705,
+      23.7363
+    ],
+    [
+      37.9698,
+      23.7356
+    ],
+    [
+      37.9696,
+      23.7345
+    ],
+    [
+      37.9694,
+      23.7332
+    ],
+    [
+      37.9692,
+      23.7324
+    ],
+    [
+      37.9693,
+      23.733
+    ],
+    [
+      37.9697,
+      23.7319
+    ],
+    [
+      37.9698,
+      23.7308
+    ],
+    [
+      37.9697,
+      23.7295
+    ],
+    [
+      37.9699,
+      23.7285
+    ],
+    [
+      37.9702,
+      23.7278
+    ]
+  ],
+  "stops": [
+    {
+      "order": 1,
+      "title": "Syntagma Square & Tomb of the Unknown Soldier",
+      "lat": 37.9755,
+      "lng": 23.7348,
+      "radius_meters": 30,
+      "stay_minutes": 8,
+      "description": "Welcome to Syntagma Square, the civic and political heart of modern Greece. Facing you on the upper forecourt is the Hellenic Parliament, originally constructed between 1836 and 1843 as the Royal Palace for King Otto. At the base of the marble stairs lies the Tomb of the Unknown Soldier, guarded 24 hours a day by the elite Evzones of the Presidential Guard.",
+      "local_tip": "The Changing of the Guard takes place every hour on the hour. Arrive 10 minutes early for a clear view on the parliament forecourt.",
+      "image_url": ""
+    },
+    {
+      "order": 2,
+      "title": "National Garden Royal Palms & Roman Mosaic",
+      "lat": 37.9739,
+      "lng": 23.7368,
+      "radius_meters": 25,
+      "stay_minutes": 8,
+      "description": "Step through the iron gates off Vasilissis Amalias Avenue into the cool shade of the National Garden, commissioned in 1839 by Queen Amalia. Its 15.5 hectares house over 500 plant species, towering Washingtonia palms planted by the Queen herself, and excavated Roman villa mosaics.",
+      "local_tip": "Public drinking fountains near the central pathways provide cool, potable Athens water. Note that the garden gates lock at sunset.",
+      "image_url": ""
+    },
+    {
+      "order": 3,
+      "title": "Zappeion Megaron Courtyard",
+      "lat": 37.9714,
+      "lng": 23.7366,
+      "radius_meters": 30,
+      "stay_minutes": 7,
+      "description": "Designed by Danish architect Theophil Hansen and inaugurated in 1888, the Zappeion Megaron was the first building in the world erected specifically for the revival of the modern Olympic Games, hosting fencing in 1896 and serving as the first Olympic Village in 1906.",
+      "local_tip": "If the main portico doors are open, walk up the steps to view the concentric circular colonnade completely free of charge.",
+      "image_url": ""
+    },
+    {
+      "order": 4,
+      "title": "Hadrian's Arch (Gate of the Two Cities)",
+      "lat": 37.9702,
+      "lng": 23.732,
+      "radius_meters": 25,
+      "stay_minutes": 7,
+      "description": "Constructed in 131 AD from solid Pentelic marble without mortar, this 18-meter Roman triumphal arch marks the ancient boundary between the classical city of Theseus and the Roman quarter of Emperor Hadrian.",
+      "local_tip": "Stand on the pedestrian island just west of the arch to frame the Parthenon directly through the center of the archway.",
+      "image_url": ""
+    },
+    {
+      "order": 5,
+      "title": "Temple of Olympian Zeus (Olympieion Viewpoint)",
+      "lat": 37.9693,
+      "lng": 23.733,
+      "radius_meters": 30,
+      "stay_minutes": 8,
+      "description": "Begun in the 6th century BC and completed by Emperor Hadrian in 132 AD, the Olympieion once boasted 104 colossal Corinthian columns standing 17 meters tall.",
+      "local_tip": "You can admire the full height of the standing columns and the fallen 1852 storm column clearly from the perimeter walkway along Amalias Avenue.",
+      "image_url": ""
+    },
+    {
+      "order": 6,
+      "title": "Dionysiou Areopagitou Promenade & Acropolis South Slope",
+      "lat": 37.9702,
+      "lng": 23.7278,
+      "radius_meters": 30,
+      "stay_minutes": 10,
+      "description": "Conclude your walk on Dionysiou Areopagitou, Athens' premier car-free marble promenade wrapping beneath the Theater of Dionysus and the glass-and-concrete Acropolis Museum.",
+      "local_tip": "Walk onto the free public plaza of the Acropolis Museum to look down through the glass floor panels into the excavated Byzantine neighborhood below.",
+      "image_url": ""
+    }
+  ]
+}
